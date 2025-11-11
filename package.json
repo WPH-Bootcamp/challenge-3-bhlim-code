@@ -25,5 +25,8 @@
   "repository": {
     "type": "git",
     "url": "your-repo-url"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
   }
 }
